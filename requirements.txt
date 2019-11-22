@@ -1,0 +1,13 @@
+tensorflow
+
+matplotlib==3.1.1
+tensorflow_hub
+tensorflow_datasets
+
+pandas
+seaborn
+
+sklearn
+
+h5py
+pyyaml
